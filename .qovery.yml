@@ -14,7 +14,3 @@ databases:
 routers:
 - name: main
   
-  routes:
-  - application_name: strapi
-    paths:
-    - /*
